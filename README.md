@@ -1,6 +1,6 @@
 # <span>Project : Corewar</span>
 ### <span >EPITECH PROJECT, 2023</span>
-### <span >Made by Théodore BILLOTTE, Marton ROUX, Louis ROLLET, Guillaume TRAN</span>
+### <span >Made by Théodore BILLOTTE, Marton ROUX, Guillaume TRAN, Louis ROLLET</span>
 
 # <span >Description:</span>
 
